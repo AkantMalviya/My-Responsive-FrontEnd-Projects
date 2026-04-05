@@ -2,5 +2,5 @@
 
 tailwind CSS and bootstrap based web site front end projects
 
-Projects is live on Github Page: https://akantmalviya.github.io/Tailwind-CSS-Responsive-FrontEnd-Projects/
+Projects is live on Github Page: https://akantmalviya.github.io/My-Responsive-FrontEnd-Projects/
 
